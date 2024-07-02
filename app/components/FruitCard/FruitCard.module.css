@@ -100,3 +100,8 @@
   background: #ffb800;
   box-shadow: 2px 4px 0px 0px #000;
 }
+
+.imageWrapper img {
+  width: 100%;
+  height: 100%
+}

@@ -34,7 +34,7 @@
   line-height: normal;
   justify-content: center;
 }
-.selectWrapper {
+/* .selectWrapper {
   display: flex;
   height: 72px;
   position: relative;
@@ -44,7 +44,7 @@
   background-color: #ffa500;
   box-shadow: 2px 4px 0px 0px #000;
   padding-right: 16px;
-}
+} */
 
 .customSelect {
   width: 100%;
